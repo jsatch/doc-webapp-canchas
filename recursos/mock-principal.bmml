@@ -1,0 +1,24 @@
+<mockup version="1.0" skin="sketch" measuredW="1042" measuredH="600" mockupW="800" mockupH="600">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="242" y="0" w="800" h="600" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>A%20Web%20Page%0Ahttp%3A//</text>
+      </controlProperties>
+    </control>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::Title" x="488" y="112" w="-1" h="-1" measuredW="308" measuredH="50" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Canchas%20Futbol%205</text>
+      </controlProperties>
+    </control>
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::Paragraph" x="423" y="177" w="451" h="140" measuredW="200" measuredH="140" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Futbol5%20es%20una%20aplicaci%F3n%20que%20permite%20organizar%20%22pichangas%22%2C%20%22picados%22%20de%20futbol.%20Es%20un%20prinicipio%20estaba%20destinado%20a%20ser%20utilizado%20solamente%20por%20los%20miembros%20de%20la%20comunidad%2C%20pero%20a%20partir%20de%20hoy%20est%E1%20disponible%20para%20todo%20el%20mundo.%20Solamente%20necesitas%20una%20cuenta%20Facebook%20para%20poder%20loguearte.</text>
+      </controlProperties>
+    </control>
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::Button" x="561" y="262" w="-1" h="-1" measuredW="162" measuredH="27" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Logueate%20con%20Facebook</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

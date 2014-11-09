@@ -1,0 +1,20 @@
+Guía Configuración Integración Continua (Codeship + Heroku)
+===========================================================
+
+== Objetivo ==
+
+Desarrollar un aplicativo web utilizando las tecnologías aprendidas en clase.
+Deberá implementar la aplicación utilizando:
+
+* Java EE
+* Base de datos Mongodb o Mysql (a elección del alumno).
+* En caso de utilizar una base de datos Postgresql, deberá hacerlo utilizando JPA.
+* Deberá la aplicación estar subida en el PaaS Heroku.
+
+== Historias de Usuario ==
+
+=== El usuario deberá poder loguearse en la aplicación utilizando una cuenta de Facebook ===
+
+[[principal]]
+.Pantalla Inicial
+image::recursos/mock-principal.png[Pagina Inicial]
