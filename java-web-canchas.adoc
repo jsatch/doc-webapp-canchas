@@ -1,5 +1,5 @@
-Guía Configuración Integración Continua (Codeship + Heroku)
-===========================================================
+Taller Aplicativo Web Canchas - Futbol 5
+========================================
 
 == Objetivo ==
 
