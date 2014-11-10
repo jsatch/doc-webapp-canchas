@@ -36,9 +36,9 @@
         <text>Fecha%3A</text>
       </controlProperties>
     </control>
-    <control controlID="12" controlTypeID="com.balsamiq.mockups::Label" x="469" y="208" w="-1" h="-1" measuredW="73" measuredH="21" zOrder="7" locked="false" isInGroup="-1">
+    <control controlID="12" controlTypeID="com.balsamiq.mockups::Label" x="469" y="208" w="-1" h="-1" measuredW="109" measuredH="21" zOrder="7" locked="false" isInGroup="-1">
       <controlProperties>
-        <text>23/11/2014</text>
+        <text>23/11/2014%2013%3A00</text>
       </controlProperties>
     </control>
     <control controlID="14" controlTypeID="com.balsamiq.mockups::Label" x="469" y="229" w="-1" h="-1" measuredW="49" measuredH="21" zOrder="8" locked="false" isInGroup="-1">
@@ -46,9 +46,9 @@
         <text>Cancha</text>
       </controlProperties>
     </control>
-    <control controlID="15" controlTypeID="com.balsamiq.mockups::Label" x="469" y="250" w="-1" h="-1" measuredW="73" measuredH="21" zOrder="9" locked="false" isInGroup="-1">
+    <control controlID="15" controlTypeID="com.balsamiq.mockups::Label" x="469" y="250" w="-1" h="-1" measuredW="20" measuredH="21" zOrder="9" locked="false" isInGroup="-1">
       <controlProperties>
-        <text>23/11/2014</text>
+        <text>13</text>
       </controlProperties>
     </control>
     <control controlID="16" controlTypeID="com.balsamiq.mockups::Label" x="469" y="279" w="-1" h="-1" measuredW="67" measuredH="21" zOrder="10" locked="false" isInGroup="-1">

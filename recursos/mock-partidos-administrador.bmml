@@ -36,24 +36,24 @@
         <icon>XIcon%7Csmall</icon>
       </controlProperties>
     </control>
-    <control controlID="9" controlTypeID="com.balsamiq.mockups::LinkBar" x="761" y="225" w="-1" h="-1" measuredW="166" measuredH="21" zOrder="7" locked="false" isInGroup="-1">
+    <control controlID="9" controlTypeID="com.balsamiq.mockups::LinkBar" x="761" y="225" w="-1" h="-1" measuredW="161" measuredH="21" zOrder="7" locked="false" isInGroup="-1">
       <controlProperties>
-        <text>Ver%2C%20Cerrar%2C%20Cancelar</text>
+        <text>Ver%2C%20Iniciar%2C%20Cancelar</text>
       </controlProperties>
     </control>
-    <control controlID="13" controlTypeID="com.balsamiq.mockups::LinkBar" x="761" y="253" w="-1" h="-1" measuredW="166" measuredH="21" zOrder="8" locked="false" isInGroup="-1">
+    <control controlID="13" controlTypeID="com.balsamiq.mockups::LinkBar" x="761" y="253" w="-1" h="-1" measuredW="161" measuredH="21" zOrder="8" locked="false" isInGroup="-1">
       <controlProperties>
-        <text>Ver%2C%20Cerrar%2C%20Cancelar</text>
+        <text>Ver%2C%20Iniciar%2C%20Cancelar</text>
       </controlProperties>
     </control>
-    <control controlID="14" controlTypeID="com.balsamiq.mockups::LinkBar" x="761" y="283" w="-1" h="-1" measuredW="166" measuredH="21" zOrder="9" locked="false" isInGroup="-1">
+    <control controlID="14" controlTypeID="com.balsamiq.mockups::LinkBar" x="761" y="283" w="-1" h="-1" measuredW="161" measuredH="21" zOrder="9" locked="false" isInGroup="-1">
       <controlProperties>
-        <text>Ver%2C%20Cerrar%2C%20Cancelar</text>
+        <text>Ver%2C%20Iniciar%2C%20Cancelar</text>
       </controlProperties>
     </control>
-    <control controlID="15" controlTypeID="com.balsamiq.mockups::LinkBar" x="761" y="314" w="-1" h="-1" measuredW="166" measuredH="21" zOrder="10" locked="false" isInGroup="-1">
+    <control controlID="15" controlTypeID="com.balsamiq.mockups::LinkBar" x="761" y="314" w="-1" h="-1" measuredW="161" measuredH="21" zOrder="10" locked="false" isInGroup="-1">
       <controlProperties>
-        <text>Ver%2C%20Cerrar%2C%20Cancelar</text>
+        <text>Ver%2C%20Iniciar%2C%20Cancelar</text>
       </controlProperties>
     </control>
   </controls>

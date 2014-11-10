@@ -54,9 +54,9 @@
         <text>Fecha%3A</text>
       </controlProperties>
     </control>
-    <control controlID="32" controlTypeID="com.balsamiq.mockups::Label" x="489" y="228" w="-1" h="-1" measuredW="73" measuredH="21" zOrder="12" locked="false" isInGroup="-1">
+    <control controlID="32" controlTypeID="com.balsamiq.mockups::Label" x="489" y="228" w="-1" h="-1" measuredW="109" measuredH="21" zOrder="12" locked="false" isInGroup="-1">
       <controlProperties>
-        <text>23/11/2014</text>
+        <text>23/11/2014%2013%3A00</text>
       </controlProperties>
     </control>
     <control controlID="33" controlTypeID="com.balsamiq.mockups::Label" x="489" y="249" w="-1" h="-1" measuredW="53" measuredH="21" zOrder="13" locked="false" isInGroup="-1">
