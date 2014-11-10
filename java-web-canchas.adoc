@@ -1,5 +1,17 @@
-Taller Aplicativo Web Canchas - Futbol 5
-========================================
+Taller 2: Aplicativo Web Canchas - Futbol 5
+===========================================
+
+== Enunciado ==
+
+El caso se basará del mismo enunciado que se dió en el Taller 1, caso *Fútbol 5*.
+
+En esta oportunidad, se hará ciertas modificaciones por lo que se sugiere prestarle
+atención a las <<historias-usuario, historias de usuario>> (requerimientos del sistema).
+
+En las <<historias-usuario, historias de usuario>> se le presentarán _wireframes_
+(http://es.wikipedia.org/wiki/Wireframe_(Dise%C3%B1o_web)) que ustede deberá de implementar.
+Es factible que el _look & feel_ sea ligeramente distinto, pero la historia deberá
+cumplir con la funcionalidad especificada.
 
 == Objetivo ==
 
@@ -9,9 +21,11 @@ Deberá implementar la aplicación utilizando:
 * Java EE
 * Base de datos Mongodb o Postgresql (a elección del grupo).
 * En caso de utilizar una base de datos Postgresql, deberá hacerlo utilizando JPA.
+* Toda notificación debe de realizarse mediante correo electrónico.
 * Deberá la aplicación estar subida en el PaaS Heroku y poder ser accedida desde
 Internet.
 
+[[historias-usuario]]
 == Historias de Usuario ==
 
 === El usuario deberá poder loguearse en la aplicación utilizando una cuenta de Facebook ===
@@ -30,7 +44,7 @@ Estos se mostrarán como una lista.
 * Al hacer click en el enlace de "Ver" se pasará a la siguiente <<ver-datos-partido,historia>>.
 * Al hacer click en el enlace de "Iniciar" se cerrará las inscripciones y se iniciará
   el partido. Si faltan jugadores, se tomarán los que están como "Probables". El sistema deberá
-  de procederá a la asignación automática de equipos. Además, se deberá notificarse a las personas
+  de proceder a la asignación automática de equipos. Además, se deberá notificarse a las personas
 que han sido aceptadas en el partido así como a las que no consiguieron cupo.
 * Al hacer click en el enlace de "Cancelar" se cancelará el partido, notificando
 por correo a todas las personas que estaban inscritas.
@@ -174,3 +188,53 @@ No se envía ningún dato.
   }
 ]
 ----
+
+== Organización ==
+
+El taller tendrá lugar durante las sesiones de clase de la semana 14 y semana 15,
+periodo en el cual debe terminarse la implementación del caso. Adicionalmente en
+la última sesión se debe exponer el proyecto a todo el salón.
+
+Este taller se desarrollará bajo el esquema de “Hackathon” cuyo objetivo es
+implementar el proyecto aplicando los conocimientos adquiridos, investigar,
+aprender colaborativamente y aportar las habilidades de cada integrante en el
+logro del objetivo.
+
+Los alumnos se organizarán en grupos de 6 como máximo. Cada fila del laboratorio
+será considerada un grupo. Los grupos nombrarán a un coordinador y se organizarán
+internamente de la forma que consideren conveniente.
+
+== Calificación ==
+
+La asistencia durante esta semana es obligatoria. Las inasistencias serán penalizadas a criterio del docente.
+
+La calificación no busca la perfección del sistema desarrollado, pero sí desea determinar cuáles de los grupos se aproximan más a la solución completa (funcionalidad correctamente ejecutada sin errores en tiempo de ejecución), así como quiénes emplean de manera más ágil y completa las tecnologías aprendidas en clase (diagramas explicativos acerca del cómo se implementó la solución).
+
+|===
+|Descripción |Puntaje |Criterios
+
+|Cumplimiento de historias de usuario
+|0 a 15 puntos
+|Utilización de tecnologias aprendidas en clase, cantidad de historias terminadas.
+y el Look & feel de la aplicación. Esta nota es *grupal*.
+
+|Apreciación
+|0 a 5 puntos
+| Se medirá la dedicación que el alumno le da al proyecto en clase. Esta nota es
+*personal*.
+|===
+
+== Referencias ==
+
+* PaaS Heroku con Java (https://devcenter.heroku.com/articles/war-deployment)
+* Base de datos Postgresql (http://www.postgresql.org.es/)
+* Base de datos Mongodb en la nube (https://mongolab.com/)
+* Base de datos Postgresl con Heroku (https://www.heroku.com/postgres)
+* Bootstrap (http://getbootstrap.com/)
+* JQuery (http://jquery.com/)
+* Para hacer un login con Facebook:
+** http://facebook4j.org/en/index.html
+* Para hacer gráfico pie (_pie chart_):
+** http://ksesocss.blogspot.com/2013/02/grafico-circular-css.html
+** http://www.kabytes.com/programacion/graficos-circulares-pie-charts-svg/
+** https://developers.google.com/chart/interactive/docs/gallery/piechart
