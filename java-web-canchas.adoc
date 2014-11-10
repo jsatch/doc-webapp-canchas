@@ -35,7 +35,7 @@ deberá de guardarse en la base de datos.
 
 [[principal]]
 .Pantalla Inicial
-image::recursos/mock-principal.png[Pagina Inicial]
+image::recursos/mock-principal.png["Pagina Inicial", scaledwidth="100%"]
 
 === Luego de loguearse, el usuario deberá poder ver los partidos que administra. ===
 
@@ -51,7 +51,7 @@ por correo a todas las personas que estaban inscritas.
 
 [[partidos-administrados]]
 .Lista de partidos administrados
-image::recursos/mock-partidos-administrador.png[Lista de partidos administrados]
+image::recursos/mock-partidos-administrador.png["Lista de partidos administrados", scaledwidth="100%"]
 
 [[ver-datos-partido]]
 === El usuario podrá ver y editar los datos del partido que ha creado y no se ha iniciado ===
@@ -72,7 +72,7 @@ las reglas de la historia anterior.
 
 [[partidos-administrados-ver]]
 .Ver / editar detalle de partido creado
-image::recursos/mock-partidos-administrador-ver.png[Ver detalle de partido creado]
+image::recursos/mock-partidos-administrador-ver.png["Ver detalle de partido creado", scaledwidth="100%"]
 
 [[partidos-administrador-ver-iniciado]]
 === El usuario podrá ver el detalle de un partido ya iniciado y guardar el marcador ===
@@ -82,7 +82,7 @@ además deberá de poder ingresar el resultado del partido, y guardarlo.
 
 [[img-partidos-administrados-ver-iniciado]]
 .Ver / editar detalle de partido creado
-image::recursos/mock-partidos-administrador-ver-iniciado.png[Ver detalle de partido creado]
+image::recursos/mock-partidos-administrador-ver-iniciado.png["Ver detalle de partido creado", scaledwidth="100%"]
 
 
 === El usuario podrá ver el listado de partidos en los que participará ===
@@ -94,7 +94,7 @@ Se mostrará el listado ordenada por fecha. Además, cada partido tendrá dos op
 
 [[partidos-participante]]
 .Listado de partidos en los que el usuario participa
-image::recursos/mock-partidos-participantes.png[Ver detalle de partido creado]
+image::recursos/mock-partidos-participantes.png["Ver detalle de partido creado", scaledwidth="100%"]
 
 
 [[partidos-participante-ver]]
@@ -102,7 +102,7 @@ image::recursos/mock-partidos-participantes.png[Ver detalle de partido creado]
 
 [[img-partidos-participante-ver-no-iniciado]]
 .Ver detalle de partido creado, con las alineaciones
-image::recursos/mock-partidos-participantes-alineaciones.png[Ver detalle de partido con alineaciones]
+image::recursos/mock-partidos-participantes-alineaciones.png["Ver detalle de partido con alineaciones", scaledwidth="100%"]
 
 
 [[usuario-desuscribir]]
@@ -126,7 +126,7 @@ Los datos a mostrar por partido serán:
 
 [[img-partidos-disponibles]]
 .Ver listado de partido en los que el usuario podrá registrarse
-image::recursos/mock-partidos-disponibles.png[Ver detalle de partido con alineaciones]
+image::recursos/mock-partidos-disponibles.png["Ver detalle de partido con alineaciones", scaledwidth="100%"]
 
 === El usuario podrá reserver una cancha (crear un partido) ===
 
@@ -141,7 +141,7 @@ a todos los invitados.
 
 [[img-reservar-cancha]]
 .Reservar cancha (crear partido)
-image::recursos/mock-reservar-cancha.png[Reservar cancha]
+image::recursos/mock-reservar-cancha.png["Reservar cancha", scaledwidth="100%"]
 
 === El usuario podrá ver los datos de su perfil ===
 
@@ -155,7 +155,7 @@ de partidos perdidos o empatados_. La suma de estos dos deberían dar 1.
 
 [[img-mi-perfil]]
 .Mi perfil
-image::recursos/mock-mi-perfil.png[Mi Perfil]
+image::recursos/mock-mi-perfil.png["Mi Perfil", scaledwidth="100%"]
 
 === Cerrar sesión ===
 
@@ -215,7 +215,7 @@ La calificación no busca la perfección del sistema desarrollado, pero sí d
 
 |Cumplimiento de historias de usuario
 |0 a 15 puntos
-|Utilización de tecnologias aprendidas en clase, cantidad de historias terminadas.
+|Utilización de tecnologias aprendidas en clase, cantidad de historias terminadas,
 y el Look & feel de la aplicación. Esta nota es *grupal*.
 
 |Apreciación
@@ -223,6 +223,7 @@ y el Look & feel de la aplicación. Esta nota es *grupal*.
 | Se medirá la dedicación que el alumno le da al proyecto en clase. Esta nota es
 *personal*.
 |===
+
 
 == Referencias ==
 
